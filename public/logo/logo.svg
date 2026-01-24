@@ -1,0 +1,16 @@
+<svg width="360" height="80" viewBox="0 0 360 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name { font: 700 28px 'Segoe UI', Inter, Arial, sans-serif; letter-spacing: 0.5px; }
+    .role { font: 500 13px 'Segoe UI', Inter, Arial, sans-serif; letter-spacing: 2px; }
+  </style>
+
+  <!-- Icon -->
+  <rect x="0" y="8" width="56" height="56" rx="14" fill="#6366F1"/>
+  <text x="28" y="46" text-anchor="middle" font-size="28" font-family="Arial" fill="white" font-weight="bold">A</text>
+
+  <!-- Name -->
+  <text x="76" y="40" class="name" fill="#F9FAFB">Aung Kyaw Oo</text>
+
+  <!-- Subtitle -->
+  <text x="76" y="62" class="role" fill="#C7D2FE">BACKEND ENGINEER</text>
+</svg>
