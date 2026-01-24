@@ -85,7 +85,7 @@ Backend/Web-focused developer with over 5 years of experience building secure fi
 
 ```bash
 git clone [your-repo-url].git
-cd Figma-Portfolio
+cd aung-Portfolio
 npm install
 npm run dev
 ```
