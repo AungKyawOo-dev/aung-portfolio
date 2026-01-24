@@ -1,61 +1,88 @@
-# Aung Kyaw Oo - Backend/Web Developer Portfolio 🚀
+Aung Kyaw Oo - Backend/Web Developer 🚀
+Site preview
 
-[![Site preview](/public/assets/thumbnail.png)](https://figma-portfolio-ten.vercel.app/)
+Experienced Backend/Web Developer with over 5 years of expertise in building secure financial systems, banking platforms, and administrative dashboards. Specialized in Java, Go, and PHP backend systems with strong frontend skills in Vue.js and modern web technologies.
 
-Welcome to my developer portfolio! This project showcases my skills, projects, and experience as a Software Engineer and UI/UX Designer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). It not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://figma-portfolio-ten.vercel.app/).
+Professional Summary
+Backend/Web-focused developer with over 5 years of experience building secure financial systems, banking platforms, and administrative dashboards. Strong background in Java, Go, and PHP backend systems with practical frontend experience using Vue 3 and Vuetify for complex admin panels. Experienced in transaction workflows, role-based systems, and real-world production environments.
 
-# Features 🎉
+Technical Skills
+Backend
+Languages: Java, PHP, Golang
+Frameworks: Spring Boot, Spring Batch, Laravel, Spring MVC, Gin
+Architecture: Microservices, gRPC, Hibernate, JPA
+Tools: Handsontable, Junit (Mockito), Apache Kafka, Apache POI, PHP SpreadSheet
+Databases: MySQL, MongoDB, Oracle Database, PostgreSQL, MyBatis
+DevOps: NPM, Maven, Composer, Docker
+Version Control: GitHub, GitLab, SVN
+Frontend
+Frameworks: Vue.js, Vuetify, React, Next.js
+Technologies: HTML5, CSS3, Bootstrap, JavaScript, jQuery, TypeScript
+State Management: Vuex, Pinia
+Build Tools: Webpack, Vite
+Methodologies
+Agile/Scrum methodologies
+CI/CD pipelines
+Test-driven development (TDD)
+RESTful API design
+Professional Experience
+Youmi Technology - Java Backend Developer
+August 2024 - August 2025
 
-The whole [portfolio](https://figma-portfolio-ten.vercel.app/) is a React-based single page app built with Next.js in TypeScript, using only statically generated pages.
+Developed backend services using Golang (Gin) for internal systems
+Built APIs for dashboards and data-heavy features
+Worked with MySQL, Redis, Kafka for scalable data processing
+Improved API performance and handled structured data pipelines
+Collaborated with frontend teams on API contracts and pagination/filtering
+Yoma Bank - Java Backend Developer
+November 2022 - March 2024
 
-- **Modern Design**: Beautiful, dark-themed UI designed in Figma with purple gradient accents
-- **Animated Typing Effect**: Dynamic text animation in the hero section that cycles through roles
-- **Responsive Layout**: Fully responsive design that works seamlessly on all devices
-- **Performance Optimized**: Built with Next.js 16 for optimal performance and SEO
-- **Project Showcase**: Featured projects section with detailed descriptions and links
-- **Smooth Animations**: Engaging user experience with smooth transitions and effects
-- **Analytics Integration**: Vercel Analytics for tracking website performance
+Designed and developed backend services using Spring Boot, Spring Batch, and Microservices architecture
+Managed gRPC for efficient inter-service communication
+Worked with databases including MySQL and MongoDB
+Implemented performance tuning and scaling for Bill Payments microservices
+Developed cron-job projects for generating reconciled reports
+Coordinated with cross-functional teams and third-party bill payment teams
+Seattle Consulting Myanmar - Web Developer
+March 2019 - October 2022
 
-# Fonts 
+Developed and maintained web applications using Java, PHP, Spring Boot, Laravel, and Vue.js
+Managed MySQL, Oracle, and PostgreSQL databases
+Led implementation of RESTful APIs and E-Commerce applications
+Implemented integration testing frameworks using JUnit and Mockito
+Provided technical support and code reviews for team members
+Point System Web Admin - Freelance Web Developer
+September 2025 - December 2025
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load [Poppins](https://fonts.google.com/specimen/Poppins), a custom Google Font with multiple weights (300-900).
+Built cash-in/cash-out approval workflows
+Implemented payment account management and verification
+Developed reward redemption and point tracking systems
+Created real-time notifications and activity logs
+Built responsive dashboard UI using Vuetify 3
+Implemented data tables with sorting, filtering, and pagination
+Education
+University of Computer Studies, Meiktila
+Bachelor of Computer Science
+December 2012 - October 2018
 
-## Personal Skills
-- Reliable and Dedicated
-- High-Quality Software Delivery
-- Strong Problem-Solving Abilities
-- Excellent Team Player
-- Effective Communication
-- Continuous Learning Mindset
-
-## Project Showcase
-
-All project images live under `public/projects` and are referenced in the `Projects.tsx` component. The assets folder contains all icons, images, and other media files used throughout the portfolio.
-
-# Development
-
-```bash
-git clone git@github.com:ibrahimmemonn/Figma_Portfolio.git
-
-cd Figma_Portfolio/
-
-npm i
-
+Certifications & Training
+Mobile Application Training at Samsung Tech Institute (November 2016)
+Asia-Yangon Regional Programming Contest (December 2017)
+Diploma in Business English at MB-Business School (January 2020)
+Languages
+English (Proficient)
+Burmese (Native)
+Japanese (Daily Conversational)
+Development Setup
+git clone [your-repo-url].git
+cd Figma-Portfolio
+npm install
 npm run dev
-```
+Deployment
+This portfolio is deployed using Vercel with automatic deployments from the main branch.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-# 🚚 Deployment
-
-Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [figma-portfolio-ten.vercel.app](https://figma-portfolio-ten.vercel.app/). A link to a preview deployment will appear under each Pull Request.
-
-# 🏛 Licenses
-
-© Copyright 2025 Ibrahim Memon
-
-Don't care if you fork & play with it, but you're not allowed to publish anything from it as a whole without my written permission. Also please be aware, the combination of typography, colors & layout makes up my brand identity. So please don't just clone everything, but rather do a remix!
-
----
-
-⭐ If you found this project helpful or interesting, please consider giving it a star!
+Contact
+Email: aungkyawoo.mtl@gmail.com
+Phone: +66 94 234 9980
+Location: Thailand
+⭐ Feel free to explore my portfolio and connect with me for opportunities!
