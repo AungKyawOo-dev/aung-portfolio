@@ -86,15 +86,10 @@ Backend/Web-focused developer with over 5 years of experience building secure fi
 ## Development Setup
 
 ```bash
-git clone [your-repo-url].git
-cd Figma-Portfolio
 npm install
 npm run dev
 ```
 
-## Deployment
-
-This portfolio is deployed using [Vercel](https://vercel.com/) with automatic deployments from the `main` branch.
 
 ## Contact
 - **Email**: aungkyawoo.mtl@gmail.com
