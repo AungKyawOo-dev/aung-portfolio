@@ -1,5 +1,7 @@
 # Aung Kyaw Oo - Backend/Web Developer 🚀
 
+[![Site preview](/public/assets/thumbnail.png)](https://figma-portfolio-ten.vercel.app/)
+
 Experienced Backend/Web Developer with over 5 years of expertise in building secure financial systems, banking platforms, and administrative dashboards. Specialized in Java, Go, and PHP backend systems with strong frontend skills in Vue.js and modern web technologies.
 
 ## Professional Summary
@@ -84,8 +86,6 @@ Backend/Web-focused developer with over 5 years of experience building secure fi
 ## Development Setup
 
 ```bash
-git clone https://github.com/AungKyawOo-dev/aung-portfolio.git
-cd aung-Portfolio
 npm install
 npm run dev
 ```
