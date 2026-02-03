@@ -23,7 +23,7 @@ const experienceCards: ExperienceCard[] = [
   },
   {
     id: 3,
-    title: "Seattle Consulting Myanmar - Web Developer",
+    title: "METATEAM MYANMAR - Web Developer",
     description: "Developed and maintained web applications using Java, PHP, Spring Boot, Spring MVC, Laravel, and VueJs. Managed databases including MySQL, Oracle Database, and PostgreSQL. Implemented integration testing frameworks using JUnit and Mockito.",
     icon: "/cards/card-3.png",
   },
