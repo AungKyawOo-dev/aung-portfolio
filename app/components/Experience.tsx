@@ -11,7 +11,7 @@ interface ExperienceCard {
 const experienceCards: ExperienceCard[] = [
   {
     id: 1,
-    title: "Youmi Technology - Java Backend Developer",
+    title: "Youmi Technology - Backend Developer",
     description: "Developed backend services using Golang (Gin) for internal systems. Built APIs for dashboards and data-heavy features, working with MySQL, Redis, and Kafka for scalable data processing. Improved API performance and handled structured data pipelines.",
     icon: "/cards/card-1.png",
   },
